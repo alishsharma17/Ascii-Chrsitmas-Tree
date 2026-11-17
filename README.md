@@ -1,10 +1,10 @@
-# Ascii-Chrsitmas-Tree
-This is the code for the ascii christmas tree from my recent tiktok: https://www.tiktok.com/@alishsharma/video/7708595506934467854
 # ASCII Christmas Tree
 
 A spinning 3D Christmas tree that runs right in your terminal. It has twinkling ornaments, a garland with chasing lights, a flickering star on top, and falling snow.
 
 As seen on my TikTok: [@alishsharma](https://www.tiktok.com/@alishsharma/video/7708595506934467854)
+
+![Spinning ASCII Christmas tree in the terminal](screenshot.png)
 
 ## Requirements
 
@@ -18,8 +18,8 @@ It looks best in a big terminal window that supports 256 colors (Windows Termina
 1. Clone the repo or just download `tree3d.py`
 
    ```
-   git clone https://github.com/YOUR_USERNAME/Ascii-Christmas-Tree.git
-   cd Ascii-Christmas-Tree
+   git clone https://github.com/alishsharma17/Ascii-Chrsitmas-Tree.git
+   cd Ascii-Chrsitmas-Tree
    ```
 
 2. Run it
@@ -32,7 +32,7 @@ It looks best in a big terminal window that supports 256 colors (Windows Termina
 
 3. Press `Ctrl+C` to quit.
 
-Tip: make your terminal full screen and zoom out a little (Ctrl and minus) for the best look.
+Tip: make your terminal full screen and zoom out a little for the best look.
 
 ## Customize it
 
@@ -60,4 +60,4 @@ Make the window bigger. The tree scales to fit whatever size your terminal is.
 
 ## License
 
-Free to use, share, and remix. If you post something you made with it, tag me on TikTok, I'd love to see it.
+MIT, so you can use, share, and remix it however you want. If you post something you made with it, tag me on TikTok. I'd love to see it.
